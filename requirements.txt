@@ -9,3 +9,6 @@ numpy
 streamlit
 tensorflow
 torch
+huggingface
+dotenv
+datasets
