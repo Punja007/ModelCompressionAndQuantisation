@@ -1,2 +1,11 @@
-python 3.11
 ipykernel
+langchain
+langchain-groq
+langchain-ollama
+langchain-community
+langchain-core
+pandas
+numpy
+streamlit
+tensorflow
+torch
