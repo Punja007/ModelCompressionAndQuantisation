@@ -1,0 +1,7 @@
+{
+  "Exact Match": 77.08,
+  "F1 Score": 85.12,
+  "latency": 26.6,
+  "throughput": 37.59,
+  "Model_size": 760.5
+}
